@@ -1,6 +1,7 @@
 <header>
 	<meta charset="utf-8"/>
 	<title>Exercicio_1</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
 </header>
 
 <body>
