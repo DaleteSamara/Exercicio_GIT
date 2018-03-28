@@ -1,7 +1,7 @@
 <!DOCTYPE HTML> 
 <html>
 	
-	<form>
+	<form method="POST" action="registra_imc.php">
 		<body>
 			 <label>Digite o seu peso:</label>
 			 <input type="number" name="peso" >
